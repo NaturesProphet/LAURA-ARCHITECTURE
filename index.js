@@ -29,7 +29,6 @@ client.onmessage = function ( e ) {
             && msg.situation.active == true
         ) {
             StartPipeline( msg );
-            console.log( "\n\n\nOK\n\n\n" );
         }
     }
 };
