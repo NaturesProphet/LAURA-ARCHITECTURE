@@ -20,16 +20,16 @@ npm install
 Abra o arquivo config.json e aponte os dados do seu cenário de teste local.
 
 ## Executando o app
-Na maquina Virtual (servidor simulado), abra o simulador (app em node) que está na area de trabalho.  
-abra um terminal lá dentro, e execute a simulação 'c2'
-```bash
-yarn run c2
-```
-
-após os passos anteriores, volte a este projeto (no pc físico) execute no terminal:
+após os passos anteriores, execute no terminal:
 
 ```bash
 npm run start
+```
+
+Agora, na maquina Virtual (servidor simulado), abra o simulador (app em node) que está na area de trabalho.  
+abra um terminal lá dentro, e execute a simulação 'c2'
+```bash
+yarn run c2
 ```
 
 ## Observações

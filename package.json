@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node index.js",
     "release": "standard-version",
-    "publicar": "git push --folow-tags origin master",
     "commit": "git-cz"
   },
   "author": "",
